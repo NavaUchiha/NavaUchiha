@@ -5,13 +5,13 @@
     {
       "title": "nava@evergreen",
       "fields": [
-        { "key": "OS",         "value": "Java / Spring Boot · React micro-frontends · Apigee Edge" },
+        { "key": "OS",         "value": "Java/Spring · React MFEs · Apigee Edge" },
         { "key": "Host",       "value": "Senior SWE & Tech Lead @ SABC · Hyderabad" },
         { "key": "Uptime",     "value": "~10 yrs in software · payments-domain" },
         { "key": "Focus",      "value": "FAANG prep · distributed systems · IoT" },
         { "key": "Langs.Code", "value": "Java, JavaScript, Python" },
         { "key": "Langs.Human","value": "Telugu (native), English" },
-        { "key": "Building",   "value": "home automation · DIY hardware · personal-finance tooling" },
+        { "key": "Building",   "value": "home automation · DIY HW · finance tooling" },
         { "key": "Interests",  "value": "badminton · Vedic astrology · FIRE @ 45" },
         { "key": "Contact",    "value": "email · LinkedIn · GitHub" }
       ]
